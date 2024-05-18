@@ -474,6 +474,16 @@
                     "technologies": [
                         "JavaScript"
                     ]
+                },
+                {
+                    "name": "Saad Bazaz",
+                    "github_link": "https://github.com/SaadBazaz",
+                    "github_user": "SaadBazaz",
+                    "web": "https://twitter.com/saadahmedbazaz",
+                    "technologies": [
+                        "JavaScript",
+                        "Python"
+                    ]
                 }
             ]
         },
@@ -522,6 +532,17 @@
                         "Java",
                         "JavaScript",
                         "Go",
+                        "C#"
+                    ]
+                },
+                {
+                    "name": "Grayhat",
+                    "github_link": "https://github.com/grayhatdevelopers",
+                    "github_user": "grayhatdevelopers",
+                    "web": "https://grayhat.studio",
+                    "technologies": [
+                        "JavaScript",
+                        "Python",
                         "C#"
                     ]
                 }
